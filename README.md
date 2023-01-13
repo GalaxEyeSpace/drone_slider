@@ -1,1 +1,1 @@
-# drone_slider
+## Boiler plate for create-react-app
